@@ -1,0 +1,301 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "E3BBAD0B",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "10",
+      "familyShareable" : false,
+      "internalID" : "D1C87DD3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.gold.1m",
+      "referenceName" : "fanxue_vipg1m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "28",
+      "familyShareable" : false,
+      "internalID" : "5AB6E388",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.gold.3m",
+      "referenceName" : "fanxue_vipg3m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "100",
+      "familyShareable" : false,
+      "internalID" : "AD498822",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.gold.1y",
+      "referenceName" : "fanxue_vipg1y",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "20",
+      "familyShareable" : false,
+      "internalID" : "D5E37A21",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.platinum.1m",
+      "referenceName" : "fanxue_vipp1m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "55",
+      "familyShareable" : false,
+      "internalID" : "9D1DCB58",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.platinum.3m",
+      "referenceName" : "fanxue_vipp3m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "200",
+      "familyShareable" : false,
+      "internalID" : "58D41FED",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.platinum.1y",
+      "referenceName" : "fanxue_vipp1y",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "30",
+      "familyShareable" : false,
+      "internalID" : "DFD9623B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.diamond.1m",
+      "referenceName" : "fanxue_vipd1m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "80",
+      "familyShareable" : false,
+      "internalID" : "447ED6B6",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.diamond.3m",
+      "referenceName" : "fanxue_vipd3m",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "300",
+      "familyShareable" : false,
+      "internalID" : "EA59BE47",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "subscription.diamond.1y",
+      "referenceName" : "fanxue_vipd1y",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "5",
+      "familyShareable" : false,
+      "internalID" : "C016E380",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.5",
+      "referenceName" : "5 书币",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10",
+      "familyShareable" : false,
+      "internalID" : "E81154D1",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.10",
+      "referenceName" : "10 书币",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "20",
+      "familyShareable" : false,
+      "internalID" : "656299BE",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.21",
+      "referenceName" : "21 书币（含赠送 1 书币）",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "50",
+      "familyShareable" : false,
+      "internalID" : "18551142",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.53",
+      "referenceName" : "53 书币（含赠送 3 书币）",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "100",
+      "familyShareable" : false,
+      "internalID" : "6A0E39B8",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.105",
+      "referenceName" : "105 书币（含赠送 5 书币）",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "200",
+      "familyShareable" : false,
+      "internalID" : "40767872",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "token.210",
+      "referenceName" : "210 书币（含赠送 10 书币）",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
